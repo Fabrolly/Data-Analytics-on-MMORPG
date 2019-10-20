@@ -6,3 +6,5 @@ Villa Giacomo 807462
 
 ### Summary
 In this project we had to analyze at MMORPG game network in a certain period (from 12/1/2009 to 12/31/2009); the nodes are users and the edges are the type of relationship between them (trade, message and attack). The report is in Italian, the demo was done with Dash (a python library); for running demo go to dash folder and run *project_data.py*.
+
+#### The final relation is on the .pdf file in this folder
